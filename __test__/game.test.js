@@ -11,7 +11,6 @@ describe('App', () => {
   })
 })
 
-
 describe('Game', () => {
   let game, p1, p2
   beforeEach(() => {
